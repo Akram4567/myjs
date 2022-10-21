@@ -5,6 +5,6 @@ Akram()
 
 
 function Hossain() {
-    console.log('Hello Hossain')
+    console.log('Welcome Hossain')
 }
 Hossain()
