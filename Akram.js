@@ -8,3 +8,9 @@ function Hossain() {
     console.log('Welcome Hossain')
 }
 Hossain()
+
+
+function a() {
+    console.log('kdhie')
+}
+a()
