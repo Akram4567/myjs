@@ -9,8 +9,7 @@ function Hossain() {
 }
 Hossain()
 
+var h = 30
 
-function a() {
-    console.log('kdfier')
-}
-a()
+
+ 
